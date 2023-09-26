@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\basit hesap makınesı\basit hesap makınesı\obj\Debug\basit hesap makınesı.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\basit hesap makınesı\basit hesap makınesı\obj\Debug\basit hesap makınesı.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\basit hesap makınesı\basit hesap makınesı\obj\Debug\basit_hesap_makınesı.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\basit hesap makınesı\basit hesap makınesı\obj\Debug\basit_hesap_makınesı.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\basit hesap makınesı\basit hesap makınesı\obj\Debug\basit hesap makınesı.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\basit hesap makınesı\basit hesap makınesı\obj\Debug\basit hesap makınesı.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\basit hesap makınesı\basit hesap makınesı\bin\Debug\basit hesap makınesı.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\basit hesap makınesı\basit hesap makınesı\bin\Debug\basit hesap makınesı.exe
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\basit hesap makınesı\basit hesap makınesı\bin\Debug\basit hesap makınesı.pdb
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\basit hesap makınesı\basit hesap makınesı\obj\Debug\basit hesap makınesı.exe
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\basit hesap makınesı\basit hesap makınesı\obj\Debug\basit hesap makınesı.pdb
